@@ -23,7 +23,7 @@ if ($total_letras < 100){
 }
 
 /*
-Creafr un programa que indique si los habitantes hablan español u otro idioma
+Crear un programa que indique si los habitantes hablan español u otro idioma
 */
 
 ?>

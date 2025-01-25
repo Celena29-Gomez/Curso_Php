@@ -29,27 +29,4 @@ do{
     echo "<br>";
 }while($j <= 10);
 
-/*
-$l = 1;
-
-do{
-    echo "Te amo Angel David Serna Correa. ♥ <br>";
-    $l++;
-}while($l <= 100);
-
-echo "<pre>";
-echo "  ♥♥     ♥♥  \n";
-echo "♥♥♥♥   ♥♥♥♥ \n";
-echo "♥♥♥♥♥♥♥♥♥♥♥ \n";
-echo " ♥♥♥♥♥♥♥♥♥  \n";
-echo "   ♥♥♥♥♥    \n";
-echo "    ♥♥♥     \n";
-echo "     ♥      \n";
-echo "</pre>"; 
-*/
-
-//while (true){ 
-//    echo "hola"; 
-//}
-
 ?>

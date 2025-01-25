@@ -55,9 +55,4 @@ echo '<pre>'; //Formato para ver mas organizado el array
 var_dump(in_array(22, $arreglo3)); //Encontrar valor
 echo '</pre>';
 
-function saludo(){...}
-
-
-
-
 ?>
